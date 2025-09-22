@@ -1,0 +1,1 @@
+Write a bash script that finds all files containing C programming language texts (the names of such files are determined by the *.c mask) in the working directory and its subdirectories and makes a copy of each file, adding the .orig extension to the file name.
